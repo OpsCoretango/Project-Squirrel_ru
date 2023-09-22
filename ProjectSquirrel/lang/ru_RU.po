@@ -695,6 +695,7 @@ msgstr ""
 "гранату в виде боевого ножа."
 
 #: .\advtech\sq_advanced_armor.json
+#, fuzzy
 msgid "암살 잠입복 설계도"
 msgid_plural "암살 잠입복 설계도"
 msgstr[0] "схемы костюма ассасина"
@@ -865,6 +866,7 @@ msgstr ""
 "\"Рампарт\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
+#, fuzzy
 msgid "콜세어 도색: 시가전"
 msgid_plural "콜세어 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Корсар\": Городской"
@@ -879,6 +881,7 @@ msgstr ""
 "\"Корсар\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
+#, fuzzy
 msgid "파이어니어 도색: 시가전"
 msgid_plural "파이어니어 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Пионер\": Городской"
@@ -893,6 +896,7 @@ msgstr ""
 "\"Пионер\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
+#, fuzzy
 msgid "램파트 도색: 시가전"
 msgid_plural "램파트 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Рампарт\": Городской"
@@ -1260,6 +1264,7 @@ msgstr ""
 "пламени."
 
 #: .\advtech\sq_advanced_armor_spells.json
+#, fuzzy
 msgid "플라즈마 충격 나이프"
 msgid_plural "플라즈마 충격 나이프s"
 msgstr[0] "Плазменно-ударный нож"
@@ -1403,6 +1408,7 @@ msgid ""
 msgstr ""
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "광선 고체화 매트릭스"
 msgid_plural "광선 고체화 매트릭스s"
 msgstr[0] "матрица фотонного твердения"
@@ -1699,6 +1705,7 @@ msgstr ""
 "исключительную точность и пробивную способность."
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "하드라이트 글레이브 (꺼짐)"
 msgid_plural "하드라이트 글레이브 (꺼짐)s"
 msgstr[0] "Фотонная глефа (откл.)"
@@ -1732,6 +1739,7 @@ msgstr ""
 "из легенды, только нужно найти длинную бороду и рыжего коня."
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "하드라이트 글레이브 (켜짐)"
 msgid_plural "하드라이트 글레이브 (켜짐)"
 msgstr[0] "Фотонная глефа (вкл.)"
@@ -1801,6 +1809,7 @@ msgid "pistol"
 msgstr ""
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "가우스 집속포"
 msgid_plural "가우스 집속포s"
 msgstr[0] "Зенитная пушка Гаусса"
@@ -1860,6 +1869,7 @@ msgstr ""
 "противнику не найти."
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "가우스 어설트 캐논"
 msgid_plural "가우스 어설트 캐논s"
 msgstr[0] "штурмовая гаусс-пушка"
@@ -1900,6 +1910,7 @@ msgid "<npcname>이(가) %s을(를) 내려찍습니다."
 msgstr "<npcname> strike %s down for the finishing blow."
 
 #: .\advtech\sq_hardlight_fusion.json
+#, fuzzy
 msgid "퓨전 로켓 해머"
 msgid_plural "퓨전 로켓 해머s"
 msgstr[0] "реактивный молот (Fusion)"
@@ -1934,7 +1945,6 @@ msgstr[2] ""
 
 #. ~ Description for {'str': '원자력 용광로'}
 #: .\advtech\sq_main_tools.json
-#, fuzzy
 msgid ""
 "핵붕괴로 작동하는, 무시무시하면서도 아름다운 창백한 푸른 빛을 발하는 원자력 "
 "용광로입니다. 그래핀 시트의 빠른 제작 및 겹층 탄화물을 만들 수 있습니다. 일종"
@@ -1983,6 +1993,7 @@ msgstr ""
 "топлива, а также слоистые углеводороды для изоляции."
 
 #: .\advtech\sq_main_tools.json
+#, fuzzy
 msgid "물질 합성기: 나노 정밀 재봉틀"
 msgid_plural "물질 합성기: 나노 정밀 재봉틀s"
 msgstr[0] "синтезатор материи: нанопрецизионная швейная машина"
@@ -2092,6 +2103,7 @@ msgstr ""
 "\""
 
 #: .\advtech\sq_meds.json
+#, fuzzy
 msgid "나노포장 붕대"
 msgid_plural "나노포장 붕대s"
 msgstr[0] "нано-упакованный бинт"
@@ -2408,6 +2420,7 @@ msgid "가려움증이 사라집니다."
 msgstr "Зуд проходит."
 
 #: .\advtech\sq_meds.json
+#, fuzzy
 msgid "트리피드 해독제"
 msgid_plural "트리피드 해독제s"
 msgstr[0] "triffid antidote"
@@ -3884,7 +3897,7 @@ msgstr ""
 #: .\items\sq_cargo_frame.json
 msgid "지게"
 msgid_plural "지게s"
-msgstr[0] "Каркасная сумка"
+msgstr[0] "Грузоподъемная рама"
 msgstr[1] "Каркасных сумок"
 msgstr[2] ""
 
@@ -3894,27 +3907,27 @@ msgid ""
 "짐을 얹어 사람이 지고 다니게 만든 기구. 꽤 무겁지만 많은 양의 짐을 실을 수 있"
 "어 보부상들에게 사랑받아왔습니다."
 msgstr ""
-"Наспинный Каркас, предназначенный для переноски человеком груза на себе. Она "
-"довольно тяжелая, но можно перевозить большой вес, что делает ее любимой "
-"среди караванщиков, туристов, доставщиков не из \"Bridges\"."
+"Рюкзак с грузовой рамой, предназначенный для переноски человеком груза на "
+"себе. Довольно тяжёл по себе, но с ним можно перевозить большой вес, что "
+"завоевало славу среди караванщиков, туристов, доставщиков не из \"Bridges\"."
 
 #: .\items\sq_cargo_frame.json
 msgid "조잡한 지게"
 msgid_plural "조잡한 지게s"
-msgstr[0] "plank pack frame"
-msgstr[1] "plank pack frames"
+msgstr[0] "деревянная грузоподъемная рама"
+msgstr[1] "деревянных грузоподъемных рам"
 msgstr[2] ""
 
 #. ~ Description for {'str': '조잡한 지게'}
 #: .\items\sq_cargo_frame.json
 msgid "나무 막대기와 끈을 엮어서 만든 간단한 운반기구."
-msgstr "Простой pack frame из деревянных палочек и шпагата"
+msgstr "Простая грузоподъемная рама из деревянных палочек и шпагата."
 
 #: .\items\sq_cargo_frame.json
 msgid "파이프 A-프레임"
 msgid_plural "파이프 A-프레임s"
-msgstr[0] "Каркасная сумка из труб"
-msgstr[1] "pipe A-frame packs"
+msgstr[0] "Грузоподъемная рама из труб"
+msgstr[1] "Грузоподъемных рам из труб"
 msgstr[2] ""
 
 #. ~ Description for {'str': '파이프 A-프레임'}
@@ -3923,14 +3936,14 @@ msgid ""
 "용접된 파이프로 형태를 이룬 운반기구. 약간의 저장공간을 제공하며, 가볍고 튼튼"
 "합니다."
 msgstr ""
-"Наспинный каркас из сварной трубы. Обеспечивает возможность хранения, легкая "
-"и прочная"
+"Наспинная рама из сварных труб. Обеспечивает возможность хранения, легкая и "
+"прочная"
 
 #: .\items\sq_cargo_frame.json
 msgid "강철 운반 프레임"
 msgid_plural "강철 운반 프레임s"
-msgstr[0] "Стальной транспортный каркас"
-msgstr[1] "steel carrier frames"
+msgstr[0] "Стальная грузоподъемная рама"
+msgstr[1] "Стальная грузоподъемная рама"
 msgstr[2] ""
 
 #. ~ Description for {'str': '강철 운반 프레임'}
@@ -3941,8 +3954,8 @@ msgstr "Это большой перевозчик сделанный из ст�
 #: .\items\sq_cargo_frame.json
 msgid "프레임 가방"
 msgid_plural "프레임 가방s"
-msgstr[0] "Каркасная сумка"
-msgstr[1] "frame packs"
+msgstr[0] "Грузоподъемная рама"
+msgstr[1] "Грузоподъемных рам"
 msgstr[2] ""
 
 #. ~ Description for {'str': '프레임 가방'}
@@ -3952,15 +3965,16 @@ msgid ""
 "친 것으로, 대용량의 저장공간을 제공할 뿐만 아니라 무거운 물건을 지고다니게 도"
 "와줍니다.  잠깐, 지게와 가방을 합쳤다고요?  정말 천재적인 생각입니다."
 msgstr ""
-"Каркас, предназначенное для переноски человеком груза на себе. Оно довольно "
+"Рама, предназначенное для переноски человеком груза на себе. Оно довольно "
 "тяжелое, но может нести большой вес, и было популярно среди караванщиков, "
 "туристов, доставщиков не из \"Bridges\""
 
 #: .\items\sq_cargo_frame.json
+#, fuzzy
 msgid "다람쥐 팩"
 msgid_plural "다람쥐 팩s"
-msgstr[0] "Rat-Pack"
-msgstr[1] "Rat-packs"
+msgstr[0] "\"Rat-Pack\""
+msgstr[1] "\"Rat-Packs\""
 msgstr[2] ""
 
 #. ~ Use action holster_msg for {'str': '다람쥐 팩'}.
@@ -3982,11 +3996,12 @@ msgid ""
 "넣을 수 있는 공간 또한 마련돼있습니다. 다람쥐 그 자체가 되신 당신에게 경의를 "
 "표합니다."
 msgstr ""
-"Этот сверхвместительный рюкзак изготовлен из нескольких композитных "
-"материалов. Он выдерживает различные удары, а его эргономичный дизайн "
-"значительно меньше стесняет движения, чем его объем и вес. В нем не только "
-"помещается три единицы оружия, но и есть место для вашего домашнего питомца. "
-"Салют за то, что вы - rat-pack."
+"Этот спроектированный по личному опыту сверх-вместительный рюкзак с рамой и "
+"поддержкой спины был изготовлен из нескольких композитных материалов. Он "
+"выдерживает различные удары, а его эргономичный дизайн значительно меньше "
+"стесняет движения. В нем не только помещается три единицы оружия, но и есть "
+"место для вашего домашнего питомца. Салют за то, что вы - барахольщик, а "
+"может были в прошлом доставщиком компании."
 
 #: .\items\sq_cargo_frame.json
 msgid "차원 안정기"
@@ -4423,8 +4438,8 @@ msgstr ""
 #: .\items\sq_generic.json
 msgid "40x46mm 무탄피 유탄"
 msgid_plural "40x46mm 무탄피 유탄s"
-msgstr[0] "40x46mm shell-less grenade"
-msgstr[1] "40x46mm caseless grenades"
+msgstr[0] "40x46mm безгильзовая граната"
+msgstr[1] "40x46mm безгильзовых гранат"
 msgstr[2] ""
 
 #. ~ Description for {'str': '40x46mm 무탄피 유탄'}
@@ -5588,8 +5603,8 @@ msgstr ""
 #: .\items\sq_unrand.json
 msgid "맥가이버 창"
 msgid_plural "맥가이버 창s"
-msgstr[0] "MacGyver's spear"
-msgstr[1] "MacGyver's spears"
+msgstr[0] "Копье МакГайвера"
+msgstr[1] "Копьев МакГайвера"
 msgstr[2] ""
 
 #. ~ Description for {'str': '맥가이버 창'}
@@ -5711,6 +5726,7 @@ msgstr "The dragon becomes me!"
 
 #. ~ Use action need_charges_msg for {'str_sp': '류이치몬지'}.
 #: .\items\sq_unrand.json
+#, fuzzy
 msgid "검의 목소리가 들려온다. \"궁극기 충전 중이다.\""
 msgstr "Вы слышите голос меча. \"Я заряжаюсь на максимальную мощность\"."
 
@@ -5897,6 +5913,7 @@ msgstr "Божий гнев"
 
 #. ~ Description for {'str': '천상의 분노'}
 #: .\items\sq_unrand.json
+#, fuzzy
 msgid "적 하나를 갈라버립니다."
 msgstr "Разделение врага."
 
@@ -6427,6 +6444,7 @@ msgstr[1] "power shot"
 msgstr[2] ""
 
 #: .\monsters\sq_mech_weapons.json
+#, fuzzy
 msgid "하단 부착 총."
 msgstr "Нижнее крепление орудия."
 
@@ -6473,6 +6491,7 @@ msgstr ""
 "наносплавным покрытием и плазменные проекторы."
 
 #: .\monsters\sq_mechs.json
+#, fuzzy
 msgid "강제종료"
 msgstr "Принудительный выход"
 
@@ -6786,6 +6805,7 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: .\monsters\sq_walkers.json
+#, fuzzy
 msgid "메롱."
 msgstr "Merong."
 
