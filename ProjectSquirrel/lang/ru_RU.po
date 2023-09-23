@@ -1170,19 +1170,19 @@ msgstr "Визор тяжелой штурмовой силовой брони \
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "대지 충격파"
-msgstr "Earth Shockwave"
+msgstr "Дрожь Земли"
 
 #. ~ Description for 대지 충격파
 #: .\advtech\sq_advanced_armor_spells.json
 msgid ""
 "아머의 힘으로 땅을 내리쳐 주변의 적들을 넘어뜨리고 타격대미지를 입힙니다."
 msgstr ""
-"Slam the ground with the force of your armor, knocking down nearby enemies "
-"and dealing damage."
+"Ударьте по земле силой своих доспехов, сбивая с ног ближайших врагов и "
+"нанося им урон."
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "벽 부수기"
-msgstr "Breaking down walls"
+msgstr "Разрушение стен"
 
 #. ~ Description for 벽 부수기
 #: .\advtech\sq_advanced_armor_spells.json
@@ -1201,7 +1201,7 @@ msgstr ""
 #. ~ Message for SPELL '가속'
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "시간이 느리게 흘러가는 느낌이다."
-msgstr "It feels like time is passing slowly."
+msgstr "Кажется, что время течёт медленно."
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "Short Leap"
@@ -1231,17 +1231,17 @@ msgstr ""
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "포착됨"
-msgstr "Captured"
+msgstr "Пойман"
 
 #. ~ Description of effect '포착됨'.
 #. ~ Apply message for effect(s) '포착됨'.
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "전술 조준경에 포착당했습니다!"
-msgstr "You're in the tactical crosshairs!"
+msgstr "Вы в тактическом прицеле!"
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "팬텀 전술 조준경"
-msgstr "Phantom Tactical Sight"
+msgstr "Тактический прицел \"Фантом\""
 
 #: .\advtech\sq_advanced_armor_spells.json
 msgid "플라즈마 충격 수류탄"
@@ -3970,7 +3970,6 @@ msgstr ""
 "туристов, доставщиков не из \"Bridges\""
 
 #: .\items\sq_cargo_frame.json
-#, fuzzy
 msgid "다람쥐 팩"
 msgid_plural "다람쥐 팩s"
 msgstr[0] "\"Rat-Pack\""
@@ -4697,7 +4696,7 @@ msgid ""
 "넣을 수 있는 칼집. 연습 없이도 꽤 사용하기 쉽습니다. 사용하면 무기를 집어넣거"
 "나 뽑아 들 수 있습니다."
 msgstr ""
-"Ножны для ножа или небольшого ножа, усиленные кевларом и изготовленные из "
+"Ножны для ножа или небольшого ножа, усиленный кевларом и изготовленные из "
 "огнестойкой ткани Номекс. Пользоваться ими довольно просто, даже без "
 "практики. При использовании можно втягивать или вытягивать оружие"
 
@@ -5632,8 +5631,8 @@ msgid ""
 msgstr ""
 "Eenie, meenie, miney, moe. \n"
 "Деревянная бита с намотанной на нее колючей проволокой, покрытая кровью и "
-"местами проржавевшая, но вы чувствуете в этом оружии неведомую силу и "
-"харизму.. Кто такой Гленн Ри ?"
+"местами проржавевшая, но.. вы чувствуете в этом оружии неведомую силу и "
+"харизму. Кто такой Гленн Ри ?"
 
 #: .\items\sq_unrand.json
 msgid "치노아라시"
@@ -5649,9 +5648,9 @@ msgid ""
 "폭풍 속 내달리며\n"
 "피 흩날리네."
 msgstr ""
-"Wielded Blade\n"
-"Rushing through the storm\n"
-"blood spattered."
+"Клинок\n"
+"Мчится сквозь бурю\n"
+"брызгов крови."
 
 #: .\items\sq_unrand.json
 msgid "히노아라시"
@@ -5677,9 +5676,9 @@ msgid ""
 "가스불 번쩍이며\n"
 "적을 사르네"
 msgstr ""
-"Fire and Sword\n"
-"With gas flames rushing\n"
-"to burn the enemy"
+"Огнем и мечом\n"
+"С газовым пламенем\n"
+"устремляющимся сжечь врага"
 
 #. ~ Use action charges_extinguish_message for {'str_sp': '히노아라시'}.
 #: .\items\sq_unrand.json
@@ -5708,9 +5707,9 @@ msgid ""
 "사용키를 누르면\n"
 "가스 잠그네"
 msgstr ""
-"Wrath of the Sun\n"
-"When you press the (a)\n"
-"Gas Lock"
+"Гнев солнца\n"
+"При нажатии на кнопку (a)\n"
+"Блокируйте подачу газа"
 
 #: .\items\sq_unrand.json
 msgid "류이치몬지"
@@ -5722,7 +5721,7 @@ msgstr[2] ""
 #. ~ Use action msg for {'str_sp': '류이치몬지'}.
 #: .\items\sq_unrand.json
 msgid "용신의 검을 받아라!"
-msgstr "The dragon becomes me!"
+msgstr "Возьмите меч Бога Дракона!"
 
 #. ~ Use action need_charges_msg for {'str_sp': '류이치몬지'}.
 #: .\items\sq_unrand.json
@@ -5743,13 +5742,13 @@ msgstr ""
 #. ~ Use action msg for {'str_sp': '류이치몬지'}.
 #: .\items\sq_unrand.json
 msgid "용은 재충전이 필요하다."
-msgstr "The dragon needs recharging."
+msgstr "Дракон нуждается в подзарядке.."
 
 #: .\items\sq_unrand.json
 msgid "하이랜더"
 msgid_plural "하이랜더"
-msgstr[0] "highlander"
-msgstr[1] "highlanders"
+msgstr[0] "Горец"
+msgstr[1] "Горцев"
 msgstr[2] ""
 
 #. ~ Description for {'str_sp': '하이랜더'}
@@ -5770,7 +5769,7 @@ msgstr "Leech Life"
 #. ~ Description for {'str': '흡혈'}
 #: .\items\sq_unrand.json
 msgid "때리면 흡혈."
-msgstr "leeching life on hit."
+msgstr "высасывание жизни при попадании."
 
 #: .\items\sq_unrand.json
 msgid "흡혈 효과"
@@ -5913,9 +5912,8 @@ msgstr "Божий гнев"
 
 #. ~ Description for {'str': '천상의 분노'}
 #: .\items\sq_unrand.json
-#, fuzzy
 msgid "적 하나를 갈라버립니다."
-msgstr "Разделение врага."
+msgstr "Расчленяет противника."
 
 #. ~ Description for the sound of spell '{'str': '천상의 분노'}'
 #: .\items\sq_unrand.json
@@ -6432,15 +6430,15 @@ msgid ""
 "익스플로러 외골격 수트에 내장된 무기인, 40mm 총열의 범용 파동 소총입니다. 사"
 "거리 내에 손쉽게 죽음을 흩뿌릴 수 있습니다."
 msgstr ""
-"Оружие, встроенное в мех Explorer, представляет собой многоцелевую "
+"Оружие, встроенное в мех \"Исследователь\", представляет собой многоцелевую "
 "импульсную винтовку с 40-мм стволом. Вы можете легко разбросать смерть в "
 "радиусе действия."
 
 #: .\monsters\sq_mech_weapons.json
 msgid "파워샷"
 msgid_plural "파워샷"
-msgstr[0] "power shot"
-msgstr[1] "power shot"
+msgstr[0] "Мощный выстрел"
+msgstr[1] "Мощный выстрел"
 msgstr[2] ""
 
 #: .\monsters\sq_mech_weapons.json
@@ -6648,6 +6646,13 @@ msgid ""
 "차와도 비유될 수 있습니다. 해킹하여 당신을 파일럿으로 인지하게끔 만들 수 있습"
 "니다. 다른 기계수트처럼, 장착된 대형 배터리를 UPS로 활용할 수 있습니다."
 msgstr ""
+"Боевой мех-беспилотник локального действия с модифицированной системой "
+"экзоскелета военного разведчика и разрешенным автономным поведением. В его "
+"варианте основное внимание уделяется боевому оружию, со средними "
+"возможностями ближнего боя и сильной огневой мощью. Его можно сравнить с "
+"шагающим танком. Его можно взломать, чтобы он распознавал вас как пилота. "
+"Как и в других мехкостюмах, большая батарея на борту может использоваться в "
+"качестве УБП."
 
 #: .\monsters\sq_mechs.json
 msgid "메크: 스트롱홀드 (독립 모드)"
@@ -6666,6 +6671,12 @@ msgid ""
 "차와도 비유될 수 있습니다. 혼자서도 작전 수행이 가능하며, 탑승 모드에서 파일"
 "럿이 탑승하여 교전능력을 끌어올릴 수도 있습니다."
 msgstr ""
+"Боевой мех-беспилотник локального действия с модифицированной системой "
+"экзоскелета военного разведчика и разрешенным автономным поведением. В его "
+"варианте основное внимание уделяется боевому оружию, со средними "
+"возможностями ближнего боя и повышенной огневой мощью. Его можно сравнить с "
+"шагающим танком. Он может действовать как в одиночку, так и с пилотом на "
+"борту, что повышает его боевые возможности."
 
 #: .\monsters\sq_mechs.json
 msgid "비활성화된 메크: 스트롱홀드 (탑승 모드)"
@@ -6696,6 +6707,10 @@ msgid ""
 "공성형 전투용 메크 드론입니다. 이제는 부서져 땅에 무릎을 꿇었습니다. 부품 회"
 "수 가능."
 msgstr ""
+"Боевой мех-беспилотник локального действия с модифицированной военной "
+"разведывательной экзоскелетной системой, допущенной к автономным действиям. "
+"Сейчас сломан и стоит на коленях носом корпуса в землю. Можно разделать на "
+"запчасти."
 
 #: .\monsters\sq_mechs.json
 msgid "파괴된 메크: 스트롱홀드 (독립 모드)"
@@ -6812,8 +6827,8 @@ msgstr "Merong."
 #: .\monsters\sq_walkers.json
 msgid "소형 유탄발사기"
 msgid_plural "소형 유탄발사기s"
-msgstr[0] "mini grenade launcher"
-msgstr[1] "mini grenade launchers"
+msgstr[0] "мини-гранатомет"
+msgstr[1] "мини-гранатометов"
 msgstr[2] ""
 
 #: .\monsters\sq_walkers.json
@@ -6958,7 +6973,7 @@ msgstr[2] ""
 msgid "대물 자동화 드론. 대구경 소총이 달린 중량형 사족보행 로봇입니다."
 msgstr ""
 "Антиматериальный автоматизированный беспилотник. Тяжелый четвероногий робот "
-"с крупнокалиберной винтовкой."
+"с крупнокалиберной винтовкой 12.7мм."
 
 #: .\monsters\sq_walkers.json
 msgid "비활성화된 워커: 저격기 MK II"
@@ -6980,8 +6995,8 @@ msgid ""
 "대물 자동화 드론. 대구경 소총이 달린 중량형 사족보행 로봇입니다. 이제는 망가"
 "졌습니다."
 msgstr ""
-"Антиматериальный автоматизированный дрон. Тяжелый четвероногий робот с "
-"крупнокалиберной винтовкой, сейчас сломан."
+"Антиматериальный автоматизированный беспилотник. Тяжелый четвероногий робот "
+"с крупнокалиберной винтовкой 50. калибра, сейчас сломан."
 
 #: .\mutations\item.json
 msgid "빠른 발 혈청"
@@ -7524,8 +7539,9 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 일반적인 사람보"
 "다 음식이 덜 필요하게 됩니다."
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. This one "
-"will make you require less food than most."
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. В результате этой мутации вы будете нуждаться в меньшем количестве "
+"пищи, чем большинство других."
 
 #: .\mutations\item.json
 msgid "재주좋은 수면가 혈청"
@@ -7606,8 +7622,8 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 독에 대한 저항력"
 "을 높여줍니다."
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. This one "
-"will make you more resistant to poisons."
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. Эта мутация сделает вас более устойчивым к ядам."
 
 #: .\mutations\item.json
 msgid "타고난 체격 혈청"
@@ -7976,9 +7992,9 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 이동 패턴을 변경"
 "하여 걷는 동안 소음을 감소시키고 함정을 작동시킬 가능성을 줄입니다."
 msgstr ""
-"A special mutagenic serum designed to produce a single mutation. Modifies "
-"movement patterns, reducing walking noise and reducing the likelihood of "
-"traps being triggered."
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. Изменяет характер движения, уменьшая шум при ходьбе и снижая "
+"вероятность срабатывания ловушек."
 
 #: .\mutations\item.json
 msgid "튼튼한 유전자 혈청"
@@ -8313,7 +8329,7 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 구조적 손상에 대"
 "한 반응으로 세포 분열 속도를 증가시켜 치유 인자를 정상 이상으로 향상시킵니다."
 msgstr ""
-"Специализированная мутантная сыворотка, разработанная для получения только "
+"Специализированная мутагенная сыворотка, разработанная для получения только "
 "одного конкретного варианта. Повышает скорость деления клеток в ответ на "
 "структурные повреждения, усиливая факторы заживления выше нормы."
 
@@ -9755,8 +9771,8 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 상어나 물고기와 "
 "같은 꼬리를 얻습니다."
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. Gives you "
-"a tail like that of a shark or fish."
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. При этом у вас появляется хвост, как у акулы или рыбы."
 
 #: .\mutations\item.json
 msgid "긴 꼬리 혈청"
@@ -10319,8 +10335,8 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 고양이의 수염을 "
 "얻습니다."
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. This one "
-"gives you feline whiskers."
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. В данном случае это кошачьи усы."
 
 #: .\mutations\item.json
 msgid "뻣뻣한 수염 혈청"
@@ -10402,8 +10418,8 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 캬~ 근육 찢 었 "
 "다!"
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. Dude, "
-"you're ripped!"
+"Специальная мутагенная сыворотка, предназначенная для получения одной "
+"мутации. Чувак да, ты качок!"
 
 #: .\mutations\item.json
 msgid "초인적 근력 혈청"
@@ -10612,8 +10628,8 @@ msgid ""
 "하나의 특정한 변이만을 제공하도록 설계된 특수 돌연변이 혈청. 감각 기관을 마음"
 "대로 늘리고 줄일 수 있게 됩니다."
 msgstr ""
-"A special mutagenic serum designed to give you a single mutation. Become "
-"capable of growing and retracting sensory organs at will."
+"Специальная мутагенная сыворотка, предназначенная для однократной мутации. "
+"Становитесь способным по своему желанию наращивать и втягивать органы чувств."
 
 #: .\mutations\item.json
 msgid "매우 작음 혈청"
@@ -14374,7 +14390,7 @@ msgstr ""
 #. ~ Crafting recipes category name
 #: .\recipe\recipes.json
 msgid "첨단기술"
-msgstr "HIGH-TECHS"
+msgstr "ПРОДВИНУТЫЕ ТЕХНОЛОГИИ"
 
 #. ~ Crafting recipes subcategory all
 #: .\recipe\recipes.json
@@ -14404,7 +14420,7 @@ msgstr ""
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
 msgid "근접무기"
-msgstr "MELEE"
+msgstr "БЛИЖНИЙ_БОЙ"
 
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
@@ -14424,7 +14440,7 @@ msgstr ""
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
 msgid "드론"
-msgstr "DRONES"
+msgstr "ДРОНЫ"
 
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
@@ -14433,7 +14449,7 @@ msgstr ""
 
 #: .\requirements\sq_requirements.json
 msgid "그래핀"
-msgstr "graphene"
+msgstr "Графен"
 
 #: .\requirements\sq_requirements.json
 msgid "ripped"
@@ -14479,7 +14495,7 @@ msgstr ""
 
 #: .\techniques\sq_unrand_techniques.json
 msgid "회전 베기"
-msgstr "Spin Slash"
+msgstr "Режущий Вихрь"
 
 #: .\techniques\sq_unrand_techniques.json
 msgid "Attack adjacent enemies"
@@ -14524,12 +14540,12 @@ msgstr "150% затрат на передвижение, 200% урона огл�
 #: .\techniques\sq_unrand_techniques.json
 #, c-format
 msgid "%s을(를) 내려찍어 마무리 일격을 가합니다"
-msgstr "You strike %s down for the finishing blow"
+msgstr "Вы наносите завершающий удар по %s"
 
 #: .\techniques\sq_unrand_techniques.json
 #, c-format
 msgid "<npcname> %s을(를) 내려찍습니다"
-msgstr "<npcname> strike %s down for the finishing blow"
+msgstr "<npcname> наносит завершающий удар по %s"
 
 #: .\techniques\sq_unrand_techniques.json
 msgid "Flowing Water Cut"
@@ -14555,7 +14571,7 @@ msgstr ""
 
 #: .\techniques\sq_unrand_techniques.json
 msgid "기절 1턴"
-msgstr "Stun for 1 turn"
+msgstr "Оглушение на 1 ход"
 
 #: .\techniques\sq_unrand_techniques.json
 #, c-format
@@ -14573,7 +14589,7 @@ msgstr ""
 
 #: .\techniques\sq_unrand_techniques.json
 msgid "기절 1턴, 150% 피해, 치명타시"
-msgstr "Stun for 1 turn, 150% damage, on critical hit"
+msgstr "Оглушение на 1 ход, 150% урона, критическим ударом"
 
 #: .\techniques\sq_unrand_techniques.json
 #, c-format
