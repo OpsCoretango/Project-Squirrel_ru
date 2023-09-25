@@ -131,7 +131,7 @@ msgid ""
 "이 장비는 안감을 빼내어 <good>방해도와 보온도가 감소</good>되었지만, <bad>방"
 "어력 또한 감소</bad>되었습니다"
 msgstr ""
-" Это снаряжение лишено подкладки, что <good>снижает скованность , "
+"Это снаряжение лишено подкладки, что <good>снижает скованность , "
 "теплозащиту</good> и <bad>защиту тела от других угроз</bad>"
 
 #. ~ Please leave anything in <angle brackets> unchanged.
@@ -695,7 +695,6 @@ msgstr ""
 "гранату в виде боевого ножа."
 
 #: .\advtech\sq_advanced_armor.json
-#, fuzzy
 msgid "암살 잠입복 설계도"
 msgid_plural "암살 잠입복 설계도"
 msgstr[0] "схемы костюма ассасина"
@@ -866,7 +865,6 @@ msgstr ""
 "\"Рампарт\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
-#, fuzzy
 msgid "콜세어 도색: 시가전"
 msgid_plural "콜세어 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Корсар\": Городской"
@@ -881,7 +879,6 @@ msgstr ""
 "\"Корсар\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
-#, fuzzy
 msgid "파이어니어 도색: 시가전"
 msgid_plural "파이어니어 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Пионер\": Городской"
@@ -896,7 +893,6 @@ msgstr ""
 "\"Пионер\"."
 
 #: .\advtech\sq_advanced_armor_colors.json
-#, fuzzy
 msgid "램파트 도색: 시가전"
 msgid_plural "램파트 도색: 시가전s"
 msgstr[0] "Камуфляжная схема окраски \"Рампарт\": Городской"
@@ -1264,7 +1260,6 @@ msgstr ""
 "пламени."
 
 #: .\advtech\sq_advanced_armor_spells.json
-#, fuzzy
 msgid "플라즈마 충격 나이프"
 msgid_plural "플라즈마 충격 나이프s"
 msgstr[0] "Плазменно-ударный нож"
@@ -1408,7 +1403,6 @@ msgid ""
 msgstr ""
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "광선 고체화 매트릭스"
 msgid_plural "광선 고체화 매트릭스s"
 msgstr[0] "матрица фотонного твердения"
@@ -1705,7 +1699,6 @@ msgstr ""
 "исключительную точность и пробивную способность."
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "하드라이트 글레이브 (꺼짐)"
 msgid_plural "하드라이트 글레이브 (꺼짐)s"
 msgstr[0] "Фотонная глефа (откл.)"
@@ -1739,7 +1732,6 @@ msgstr ""
 "из легенды, только нужно найти длинную бороду и рыжего коня."
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "하드라이트 글레이브 (켜짐)"
 msgid_plural "하드라이트 글레이브 (켜짐)"
 msgstr[0] "Фотонная глефа (вкл.)"
@@ -1809,7 +1801,6 @@ msgid "pistol"
 msgstr ""
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "가우스 집속포"
 msgid_plural "가우스 집속포s"
 msgstr[0] "Зенитная пушка Гаусса"
@@ -1869,7 +1860,6 @@ msgstr ""
 "противнику не найти."
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "가우스 어설트 캐논"
 msgid_plural "가우스 어설트 캐논s"
 msgstr[0] "штурмовая гаусс-пушка"
@@ -1910,7 +1900,6 @@ msgid "<npcname>이(가) %s을(를) 내려찍습니다."
 msgstr "<npcname> strike %s down for the finishing blow."
 
 #: .\advtech\sq_hardlight_fusion.json
-#, fuzzy
 msgid "퓨전 로켓 해머"
 msgid_plural "퓨전 로켓 해머s"
 msgstr[0] "реактивный молот (Fusion)"
@@ -1993,7 +1982,6 @@ msgstr ""
 "топлива, а также слоистые углеводороды для изоляции."
 
 #: .\advtech\sq_main_tools.json
-#, fuzzy
 msgid "물질 합성기: 나노 정밀 재봉틀"
 msgid_plural "물질 합성기: 나노 정밀 재봉틀s"
 msgstr[0] "синтезатор материи: нанопрецизионная швейная машина"
@@ -2103,7 +2091,6 @@ msgstr ""
 "\""
 
 #: .\advtech\sq_meds.json
-#, fuzzy
 msgid "나노포장 붕대"
 msgid_plural "나노포장 붕대s"
 msgstr[0] "нано-упакованный бинт"
@@ -2420,11 +2407,10 @@ msgid "가려움증이 사라집니다."
 msgstr "Зуд проходит."
 
 #: .\advtech\sq_meds.json
-#, fuzzy
 msgid "트리피드 해독제"
 msgid_plural "트리피드 해독제s"
-msgstr[0] "triffid antidote"
-msgstr[1] "triffid antidotes"
+msgstr[0] "Антидот от триффида"
+msgstr[1] "Антидотов от трифида"
 msgstr[2] ""
 
 #. ~ Description for {'str': '트리피드 해독제'}
@@ -5858,8 +5844,8 @@ msgstr ""
 #: .\items\sq_unrand.json
 msgid "정화의 검"
 msgid_plural "정화의 검s"
-msgstr[0] "sword of purification"
-msgstr[1] "sword of purifications"
+msgstr[0] "Меч очищения"
+msgstr[1] "Мечей очищения"
 msgstr[2] ""
 
 #. ~ Use action msg for {'str': '정화의 검'}.
@@ -6442,7 +6428,6 @@ msgstr[1] "Мощный выстрел"
 msgstr[2] ""
 
 #: .\monsters\sq_mech_weapons.json
-#, fuzzy
 msgid "하단 부착 총."
 msgstr "Нижнее крепление орудия."
 
@@ -6489,7 +6474,6 @@ msgstr ""
 "наносплавным покрытием и плазменные проекторы."
 
 #: .\monsters\sq_mechs.json
-#, fuzzy
 msgid "강제종료"
 msgstr "Принудительный выход"
 
@@ -6820,7 +6804,6 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: .\monsters\sq_walkers.json
-#, fuzzy
 msgid "메롱."
 msgstr "Merong."
 
@@ -14390,7 +14373,7 @@ msgstr ""
 #. ~ Crafting recipes category name
 #: .\recipe\recipes.json
 msgid "첨단기술"
-msgstr "ПРОДВИНУТЫЕ ТЕХНОЛОГИИ"
+msgstr "Продвинутые Технологии"
 
 #. ~ Crafting recipes subcategory all
 #: .\recipe\recipes.json
@@ -14420,7 +14403,7 @@ msgstr ""
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
 msgid "근접무기"
-msgstr "БЛИЖНИЙ_БОЙ"
+msgstr "Рукопашное"
 
 #. ~ Crafting recipes subcategory of '첨단기술' category
 #: .\recipe\recipes.json
